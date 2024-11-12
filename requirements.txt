@@ -1,0 +1,6 @@
+requests
+telebot
+google-generativeai
+markdownify
+bs4
+smtplib
