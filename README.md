@@ -32,7 +32,7 @@ This project includes:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/doffn/EthioJob-Scrapper
+git clone https://github.com/doffn/EthioJob_Applier
 cd EthioJob-Scrapper
 ```
 
