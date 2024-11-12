@@ -1,6 +1,3 @@
-Based on your provided code, here's an interactive `README.md` file with clear instructions and emojis to make it engaging and user-friendly. The README covers the core functionalities of your project, dependencies, and how to set up and run the application.
-
----
 
 # 📧 Telegram Bot & Job Scraper 🚀
 
