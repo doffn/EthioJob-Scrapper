@@ -81,7 +81,7 @@ python email_sender.py
 python job_scraper.py
 ```
 
-You can get the API address for the desired field of work on the windows inside inspect.
+You can get the `API address` for the desired field of work on the windows inside inspect.
 
 ## 📦 Dependencies
 Here's a list of the major libraries used in this project:
@@ -105,7 +105,7 @@ pip install -r requirements.txt
 3. **Job Scraper**: Fetches job postings and updates a local JSON file for tracking.
 
 ## 📃 License
-This project is licensed under the MIT License. Feel free to use and modify it as you see fit! 🛠️
+This project is made by Dawit Neri and is licensed under the MIT License. Feel free to use and modify it as you see fit! 🛠️
 
 ---
 
