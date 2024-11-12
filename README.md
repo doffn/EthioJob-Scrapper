@@ -35,8 +35,8 @@ This project includes:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/telegram-job-scraper.git
-cd telegram-job-scraper
+git clone https://github.com/doffn/EthioJob-Scrapper
+cd EthioJob-Scrapper
 ```
 
 ### 2. Create a Virtual Environment
@@ -83,6 +83,8 @@ python email_sender.py
 ```bash
 python job_scraper.py
 ```
+
+You can get the API address for the desired field of work on the windows inside inspect.
 
 ## 📦 Dependencies
 Here's a list of the major libraries used in this project:
